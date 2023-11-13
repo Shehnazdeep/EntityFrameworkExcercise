@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "pkB1Lm2tYuW8nqO1uz05ozHo15zqRKnV+4eMgU/BwoZPCo0DI45t7sFmp6A/zGJ4XsgLCMSwyEq5zjThaEMAbg==",
+  "success": true,
+  "projectFilePath": "/Users/shehnazdeepkaur/Documents/Fifth Semester/Enterprise Software/EntityFrameworkExercise/EntityFrameworkExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/shehnazdeepkaur/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/Users/shehnazdeepkaur/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/shehnazdeepkaur/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/shehnazdeepkaur/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/shehnazdeepkaur/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/shehnazdeepkaur/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/shehnazdeepkaur/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
